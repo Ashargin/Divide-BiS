@@ -4,7 +4,7 @@
 50653 Shadowvault Slayer's Cloak
 52029 Protector's Mark of Sanctification
 50655 Scourge Hunter's Vambraces
-50734 Royal Scepter of Terenas II
+50737 Havoc's Call, Blade of Lordaeron Kings
 50737 Havoc's Call, Blade of Lordaeron Kings
 50619 Anub'ar Stalker's Gloves
 50688 Nerub'ar Stalker's Cord
@@ -15,3 +15,4 @@
 50363 Deathbringer's Will
 50343 Whispering Fanged Skull
 50458 Bizuri's Totem of Shattered Ice
+50734 Royal Scepter of Terenas II

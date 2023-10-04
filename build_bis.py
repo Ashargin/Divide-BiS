@@ -187,7 +187,7 @@ def get_items(player):
         names += eighty_names.tolist()
         lines = lines[1:]
     if lines:
-        ignore_len = len(ids) > 0
+        ignore_len = player in ['Betula']
         txt_ids, txt_names = get_items_from_text(
             "\n".join(lines), ignore_len=ignore_len
         )
