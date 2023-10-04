@@ -57,6 +57,7 @@ for iid in df_bis.item_id.unique():
             50402,
             49623,
             50456,
+            50458,
         ]:
             iids.append(iid)
 if iids:
@@ -193,7 +194,7 @@ def optimize_prios(
     non_lootable_sources = {
         "Emblems of Conquest": [45825],
         "Emblems of Triumph": [47673, 47664, 47666, 47668, 47661, 47665, 47733, 47670],
-        "Emblems of Frost": [50454, 50456],
+        "Emblems of Frost": [50454, 50456, 50458],
         "Craft": [45564, 45553, 45551, 45561, 45560, 47570, 47587, 49894],
         "P1": [
             40207,

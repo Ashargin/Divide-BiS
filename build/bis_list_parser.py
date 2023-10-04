@@ -51,7 +51,7 @@ def parse_bis_list(locale="en"):
     non_lootable_ilvls = {
         284: [49623],
         277: [50400, 52572, 50402],
-        264: [49894, 50454, 50456],
+        264: [49894, 50454, 50456, 50458],
         258: [46017],
         245: [47673, 47570, 47664, 47666, 47668, 47661, 47665, 47587, 47733, 47670],
         238: [42853, 42608],
@@ -113,6 +113,7 @@ def parse_bis_list(locale="en"):
             50402: "Bague de vengeance sans fin du Verdict des cendres",
             49623: "Deuillelombre",
             50456: "Idole de la lune gémissante",
+            50458: "Totem de la glace fracassée de Bizuri",
         }
         df_priorities.item_name = df_priorities.apply(
             lambda row: row.item_name
