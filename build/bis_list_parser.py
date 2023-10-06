@@ -51,7 +51,7 @@ def parse_bis_list(locale="en"):
     non_lootable_ilvls = {
         284: [49623],
         277: [50400, 52572, 50402, 50398],
-        264: [49894, 50454, 50456, 50458, 50356, 50461],
+        264: [49894, 50454, 50456, 50458, 50356, 50461, 50459],
         258: [46017],
         245: [47673, 47570, 47664, 47666, 47668, 47661, 47665, 47587, 47733, 47670],
         238: [42853, 42608],
@@ -117,6 +117,7 @@ def parse_bis_list(locale="en"):
             50398: "Bague de destruction sans fin du Verdict des cendres",
             50356: "Passe-partout corrodé",
             50461: "Libram de la tour éternelle",
+            50459: "Cachet du pendu",
         }
         df_priorities.item_name = df_priorities.apply(
             lambda row: row.item_name
