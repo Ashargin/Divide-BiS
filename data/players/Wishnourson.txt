@@ -3,7 +3,7 @@
 52028 Vanquisher's Mark of Sanctification
 50628 Frostbinder's Shredded Cape
 52028 Vanquisher's Mark of Sanctification
-50651 The Lady's Brittle Bracers
+50630 Bracers of Eternal Dreaming
 50734 Royal Scepter of Terenas II
 50719 Shadow Silk Spindle
 50663 Gunship Captain's Mittens
