@@ -321,3 +321,5 @@ item_id,item_name,item_name_fr,boss,boss_fr,raid_size,hm,slot,ilvl,drops_per_id
 50678,Seal of Many Mouths,Sceau des bouches nombreuses,Rotface,Trognepus,25,True,Finger,277,0.2
 50654,Scourgeborne Waraxe,Hache de guerre fléauvenante,Gunship Armory,Armurerie de la Cannonière,25,True,Weapon 1H,277,0.2
 50697,Gangrenous Leggings,Jambières gangrenées,Festergut,Pulentraille,25,True,Legs,277,0.2
+50728,Lana'thel's Chain of Flagellation,Chaîne de flagellation de Lana'thel,Blood-Queen Lana'thel,Reine de sang Lana'thel,25,True,Neck,277,0.2
+50603,Cryptmaker,Creuse-crypte,Blood Prince Council,Conseil des Princes de Sang,25,True,Weapon 2H,277,0.2
