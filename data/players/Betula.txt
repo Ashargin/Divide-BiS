@@ -1,10 +1,10 @@
 52029 Protector's Mark of Sanctification
-50633 Sindragosa's Cruel Claw
+51890 Precious's Putrid Collar
 52029 Protector's Mark of Sanctification
 50653 Shadowvault Slayer's Cloak
 52029 Protector's Mark of Sanctification
 50655 Scourge Hunter's Vambraces
-50737 Havoc's Call, Blade of Lordaeron Kings
+50692 Black Bruise
 50737 Havoc's Call, Blade of Lordaeron Kings
 50619 Anub'ar Stalker's Gloves
 50688 Nerub'ar Stalker's Cord
