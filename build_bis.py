@@ -14,7 +14,7 @@ def get_items_from_eightyupgrades(url):
     time.sleep(10)
 
     elems = re.findall(
-        "gear-slot_itemName__[a-zA-Z0-9]* item-(?:epic|rare|legendary).*?</a>",
+        "gear-slot_itemName__[a-zA-Z0-9]*_ item-(?:epic|rare|legendary).*?</a>",
         driver.page_source,
     )
     driver.close()

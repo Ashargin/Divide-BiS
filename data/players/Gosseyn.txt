@@ -4,8 +4,7 @@
 50677 Winding Sheet
 52028 Vanquisher's Mark of Sanctification
 50659 Polar Bear Claw Bracers
-50672 Bloodvenom Blade
-50708 Last Word
+49623 Shadowmourne
 52028 Vanquisher's Mark of Sanctification
 50620 Coldwraith Links
 50624 Scourge Reaver's Legplates
