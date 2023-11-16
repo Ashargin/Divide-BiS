@@ -9,7 +9,7 @@
 52030 Conqueror's Mark of Sanctification
 50613 Crushing Coldwraith Belt
 50694 Plaguebringer's Stained Pants
-51899 Icecrown Spire Sandals
+50699 Plague Scientist's Boots
 50664 Ring of Rapid Ascent
 50398 Ashen Band of Endless Destruction
 50348 Dislodged Foreign Object
