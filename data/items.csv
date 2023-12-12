@@ -326,3 +326,4 @@ item_id,item_name,item_name_fr,boss,boss_fr,raid_size,hm,slot,ilvl,drops_per_id
 51890,Precious's Putrid Collar,Collier putride de Bijou,Festergut,Pulentraille,10,True,Finger,264,0.2
 50692,Black Bruise,Meurtrissure noire,Festergut,Pulentraille,25,True,Weapon 1H,277,0.2
 50709,"Bryntroll, the Bone Arbiter","Bryntroll, le médiateur d'ossements",Lord Marrowgar,Seigneur Gargamoelle,25,True,Weapon 2H,277,0.2
+51845,Stakethrower,Lance-pieu,Blood-Queen Lana'thel,Reine de sang Lana'thel,10,True,Ranged,264,0.2
